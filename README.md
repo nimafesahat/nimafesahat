@@ -1,7 +1,4 @@
-import pypandoc
-
-# Markdown content for GitHub profile
-markdown_content = """# Hi there 👋
+# Hi there 👋
 
 I'm Nima, a passionate software developer who loves building and learning new things! 🚀
 
