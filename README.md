@@ -1,16 +1,19 @@
-## Hi there 👋
+import pypandoc
 
-<!--
-**nimafesahat/nimafesahat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Markdown content for GitHub profile
+markdown_content = """# Hi there 👋
 
-Here are some ideas to get you started:
+I'm Nima, a passionate software developer who loves building and learning new things! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Programming Languages: **Go**, **C++**, **PHP**
+- Tools & Platforms: **Docker**, **Git**
+
+## 📫 Contact Me
+- 📧 Email: fesahatnima@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/nima-fesahat-500b38335/)
+- ✍️ [Medium](https://medium.com/@fesahatnima)
+
+---
+✨ Always eager to collaborate and learn more in the world of software development!
+
