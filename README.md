@@ -14,6 +14,14 @@ I'm Nima, a passionate software developer who loves building and learning new th
 
 ---
 
+## 🛠️ Frameworks
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="50" height="50" title="Gin"/>
+</p>
+
+---
+
 ## 🛠️ Tools & Platforms
 
 <p align="left">
@@ -40,4 +48,3 @@ I'm Nima, a passionate software developer who loves building and learning new th
 ---
 
 ✨ Always eager to collaborate and learn more in the world of software development!
-
